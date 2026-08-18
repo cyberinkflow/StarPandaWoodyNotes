@@ -32,7 +32,7 @@
 
 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
-- [星光小熊貓體木質調 ver. 1.0](https://github.com/cyberinkflow/StarPandaKidsFonts/raw/1934d8585394d1f0b7b148f25696c121679ef725/StarPandaKidsBeta2.0.otf) 常用中文字 8000+
+- [星光小熊貓體木質調 ver. 1.0](https://github.com/cyberinkflow/StarpandaWoodyNotes/raw/ca7d2607a7c842a66fda1a6069be2302b59e9efc/StarpandaWoodyNotesVer1.0.otf) 常用中文字 8000+
 
 
 ## 📜 授權方式
