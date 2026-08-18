@@ -1,6 +1,6 @@
 # ⭐️ 星光小熊貓體木質調－星光敘事，熊貓寫字。⭐️
 
-<img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/385146a2-fa14-4574-8519-0a328edaa415" />
+<img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/74edc99f-9588-40eb-9964-e02d72435966" />
 
 
 嗨，這裡是白河寫字運銷合作社，「星光小熊貓體木質調」是我透過字嗨字體產生器自製的第二個手寫字型啦。🐾
