@@ -21,7 +21,9 @@
 
 後續計畫：追蹤人數達到各個小里程碑之後，會釋出追加字型的更新、以及等寬字型等不同版本，還有其他的小驚喜 💫
 
-- 追蹤寫字帳 <a href="https://www.instagram.com/pandashaji.coop/" target="_blank">白河寫字運銷合作社</a>：各種廢話文學與能量語錄（好衝突）
+- 追蹤 Instagram <a href="https://www.instagram.com/pandashaji.coop/" target="_blank">白河寫字運銷合作社</a>：各種廢話文學與能量語錄（好衝突）
+- 追蹤 Threads <a href="https://www.threads.com/@pandashaji.coop" target="_blank">白河寫字運銷合作社</a>：獲取更多碎碎念（？）
+
   
 ### ⭐️ Bonus 加分題：
 - [隨喜斗內白河去做個肩頸按摩](https://cyberinkflow.bobaboba.me)、喝杯奶茶增添燃料，加速寫字進度
