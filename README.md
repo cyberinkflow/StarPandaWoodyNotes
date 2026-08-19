@@ -79,13 +79,12 @@
 
 ## 🖼️ 字體示例
 
-以下是星光小熊貓體幼兒風 beta2.0 版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
+以下是星光小熊貓體木質調 1.1 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。
 
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/5484bb34-699c-43f2-a73f-223ee118528c" width="200" />
-  <img src="https://github.com/user-attachments/assets/42d59a32-96f3-4332-b95d-3d09b2b3bd71" width="200" /> 
-  <img src="https://github.com/user-attachments/assets/01cb347f-b889-4580-a6c1-f2e2f4ce9648" width="200" />
-  <img src="https://github.com/user-attachments/assets/e598f8b0-3ac8-4319-bf39-f74b70ad5e81" width="200" />
+  <img src="https://github.com/user-attachments/assets/745dff70-7c8f-4101-9332-39bfd61058bf" width="200" />
+  <img src="https://github.com/user-attachments/assets/2fddd0fd-33c7-4040-b4a5-b8b81c1f4b48" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/3efb791b-ab7e-4815-bcad-588ede572079" width="200" />
 </div>
 
 
