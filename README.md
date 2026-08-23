@@ -1,5 +1,3 @@
-<img width="1080" height="1350" alt="IMG_1915" src="https://github.com/user-attachments/assets/f1a7222f-2fd8-4b5e-83c7-759e5fb6d656" />
-
 # ⭐️ 星光小熊貓體木質調－星光敘事，熊貓寫字。⭐️
 
 <img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/93a828ab-129f-487f-9ef5-a400708a73cb" />
