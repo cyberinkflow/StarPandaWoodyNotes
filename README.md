@@ -1,3 +1,5 @@
+<img width="1080" height="1350" alt="IMG_1915" src="https://github.com/user-attachments/assets/f1a7222f-2fd8-4b5e-83c7-759e5fb6d656" />
+
 # ⭐️ 星光小熊貓體木質調－星光敘事，熊貓寫字。⭐️
 
 <img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/93a828ab-129f-487f-9ef5-a400708a73cb" />
@@ -7,14 +9,14 @@
 
 初始風格設定是帶著書法筆觸、方方正正、老實老實的設計，但是用平板有點難完整傳達，我們就不要太執著 😆 希望可以提供旅人朋友們在進行影音圖文創作的時候，有更多字體風格上的選擇，降低創作的門檻。 OwO
 
-目前木質調已經完成7000+中文字，並且完成了台羅拼音和日文包，請依照需求自行取用。 😎
+目前木質調已經完成7000+中文字，並且完成了台羅拼音和日文包，而且這次同時發布了等寬、以及不等寬兩種字型，請依照需求自行取用。 😎
 
 （更多字型圖片請往下滑，在字體示例篇中展示）
 
 ## 📥 下載之前
 
 ### ⭐️ 請追蹤白河的 Instagram 和 Threads 
-本字型為免費可商用字型，目前是 1.1 版本，後續的更新、修正情報會透過我的 Instagram 和 Threads 發佈，
+本字型為免費可商用字型，目前是 1.2 版本，後續的更新、修正情報會透過我的 Instagram 和 Threads 發佈，
 還請來到此地的旅人可以先順手按讚追蹤起來！
 
 如果有錯誤要回報、有急需想要補什麼字的需求，也請透過 IG 或 Email 聯絡我(❁´◡`❁) 
@@ -32,10 +34,10 @@
 
 ## 🔗 下載連結
 
-請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
+目前有不等寬、以及等寬兩種字型，請依需求下載對應版本
 
-- [星光小熊貓體木質調 ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/7a9716c99e17c076709da7af0bedeefb6b3a731d/StarpandaWoodyNotes1.2.otf) 常用中文字 7000+、日文包、台羅拼音完成
-
+- [星光小熊貓體木質調 ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/7a9716c99e17c076709da7af0bedeefb6b3a731d/StarpandaWoodyNotes1.2.otf) 常用中文字 7000+、日文包、台羅拼音，不等寬版本
+- [星光小熊貓體木質調等寬字型　ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/f8b48e190e202b0163156db79817bb1214be23fd/StarpandaWoodyNotes-mono1.2.otf) 常用中文字 7000+、日文包、台羅拼音，等寬版本
 
 ## 📜 授權方式
 
@@ -79,12 +81,16 @@
 
 ## 🖼️ 字體示例
 
-以下是星光小熊貓體木質調 1.2 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。
+以下是星光小熊貓體木質調 1.2 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。前三張為不等寬字型效果（比較有手寫感），後三張為等寬字型效果（一家人就是要整整齊齊）
 
 <div align=center>
   <img src="https://github.com/user-attachments/assets/b74eaba3-9daf-4346-a888-feb6097a0f86" width="200" />
   <img src="https://github.com/user-attachments/assets/643525e5-00b3-47a2-b0d8-d823ace06204" width="200" /> 
   <img src="https://github.com/user-attachments/assets/40ce7d20-0d61-4112-a6a1-ecac42d93185" width="200" />
+<br>
+  <img src="https://github.com/user-attachments/assets/a1911686-3972-411b-a797-628598b24dbd" width="200" />
+  <img src="https://github.com/user-attachments/assets/9eb4531a-7b4d-4138-a04d-d44fc6379c37" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/f1a7222f-2fd8-4b5e-83c7-759e5fb6d656" width="200" />
 </div>
 
 
