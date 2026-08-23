@@ -1,6 +1,6 @@
 # ⭐️ 星光小熊貓體木質調－星光敘事，熊貓寫字。⭐️
 
-<img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/74edc99f-9588-40eb-9964-e02d72435966" />
+<img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/93a828ab-129f-487f-9ef5-a400708a73cb" />
 
 
 嗨，這裡是白河寫字運銷合作社，「星光小熊貓體木質調」是我透過字嗨字體產生器自製的第二個手寫字型啦。🐾
@@ -82,9 +82,9 @@
 以下是星光小熊貓體木質調 1.2 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。
 
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/745dff70-7c8f-4101-9332-39bfd61058bf" width="200" />
-  <img src="https://github.com/user-attachments/assets/2fddd0fd-33c7-4040-b4a5-b8b81c1f4b48" width="200" /> 
-  <img src="https://github.com/user-attachments/assets/3efb791b-ab7e-4815-bcad-588ede572079" width="200" />
+  <img src="https://github.com/user-attachments/assets/b74eaba3-9daf-4346-a888-feb6097a0f86" width="200" />
+  <img src="https://github.com/user-attachments/assets/643525e5-00b3-47a2-b0d8-d823ace06204" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/40ce7d20-0d61-4112-a6a1-ecac42d93185" width="200" />
 </div>
 
 
