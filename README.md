@@ -34,7 +34,7 @@
 
 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
-- [星光小熊貓體木質調 ver. 1.1](https://github.com/cyberinkflow/StarpandaWoodyNotes/raw/17042a396be987ce44ba3cf974cdaf4bcabea78b/StarpandaWoodyNotes1.1.otf) 常用中文字 7000+、日文包、台羅拼音完成
+- [星光小熊貓體木質調 ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/7a9716c99e17c076709da7af0bedeefb6b3a731d/StarpandaWoodyNotes1.2.otf) 常用中文字 7000+、日文包、台羅拼音完成
 
 
 ## 📜 授權方式
@@ -79,7 +79,7 @@
 
 ## 🖼️ 字體示例
 
-以下是星光小熊貓體木質調 1.1 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。
+以下是星光小熊貓體木質調 1.2 字型實際展示，書寫甄嬛傳台詞、周星馳台詞、日文動漫台詞。
 
 <div align=center>
   <img src="https://github.com/user-attachments/assets/745dff70-7c8f-4101-9332-39bfd61058bf" width="200" />
@@ -92,7 +92,7 @@
 
 ### 更新紀錄
 - 2026.08.10 - 星光小熊貓體木質調 Ver. 1.0 封測中
-- 2025.08.31 - 星光小熊貓體木質調 Ver. 1.1 正式發布！
+- 2025.08.25 - 星光小熊貓體木質調 Ver. 1.2 正式發布！
 
 ### 未來預定
 - 完成本土漢字包
