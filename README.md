@@ -34,8 +34,8 @@
 
 目前有不等寬、以及等寬兩種字型，請依需求下載對應版本
 
-- [星光小熊貓體木質調 不等寬字型 ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/7a9716c99e17c076709da7af0bedeefb6b3a731d/StarpandaWoodyNotes1.2.otf) 常用中文字 7000+、日文包、台羅拼音，不等寬版本
-- [星光小熊貓體木質調 等寬字型 ver. 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/f8b48e190e202b0163156db79817bb1214be23fd/StarpandaWoodyNotes-mono1.2.otf) 常用中文字 7000+、日文包、台羅拼音，等寬版本
+- [星光小熊貓體木質調 不等寬字型 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/7a9716c99e17c076709da7af0bedeefb6b3a731d/StarpandaWoodyNotes1.2.otf) 常用中文字 7000+、日文包、台羅拼音，不等寬版本
+- [星光小熊貓體木質調 等寬字型 1.2](https://github.com/cyberinkflow/StarPandaWoodyNotes/raw/f8b48e190e202b0163156db79817bb1214be23fd/StarpandaWoodyNotes-mono1.2.otf) 常用中文字 7000+、日文包、台羅拼音，等寬版本
 
 ## 📜 授權方式
 
