@@ -11,12 +11,6 @@
 
 （更多字型圖片請往下滑，在字體示例篇中展示）
 
-## 🐾 Information Center
-
-
-🆕 星光小熊貓體第一套字型幼兒風，請由此處前往 👉 <a href="https://github.com/cyberinkflow/StarPandaKidsFonts" target="_blank">星光小熊貓體幼兒風</a>
-
-
 ## 📥 下載之前
 
 ### ⭐️ 請追蹤白河的 Instagram 和 Threads 
@@ -108,6 +102,10 @@
 ### 未來預定
 - 完成本土漢字包
 - 完成粵語包
+
+## ✨ 星光小熊貓體系列字型
+
+- 星光小熊貓體第一套字型幼兒風，請由此處前往 👉 <a href="https://github.com/cyberinkflow/StarPandaKidsFonts" target="_blank">星光小熊貓體幼兒風</a>
 
 ## 🔨 安裝方式
 
