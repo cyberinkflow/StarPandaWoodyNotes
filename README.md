@@ -106,6 +106,7 @@
 ## ✨ 星光小熊貓體系列字型
 
 - 星光小熊貓體第一套字型幼兒風，請由此處前往 👉 <a href="https://github.com/cyberinkflow/StarPandaKidsFonts" target="_blank">星光小熊貓體幼兒風</a>
+- 星光小熊貓體第三套字型棉花花（暫定）製作中
 
 ## 🔨 安裝方式
 
